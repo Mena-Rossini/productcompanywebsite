@@ -492,7 +492,7 @@ body {
 ![people](https://user-images.githubusercontent.com/102855266/215249809-c60cb95e-144a-4fd0-b922-8955a294fe64.jpg)
 
 
-### home page :
+### contactus page :
 ![contactus](https://user-images.githubusercontent.com/102855266/215249815-bd56dc55-024f-402c-98c5-00af376b12dc.jpg)
 
 ### html validator :
