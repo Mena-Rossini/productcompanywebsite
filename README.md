@@ -488,19 +488,14 @@ body {
 ### product page :
 ![products](https://user-images.githubusercontent.com/102855266/215249804-8d2c542b-0407-4aea-80c1-37ca1f7b1b61.jpg)
 
-
-
 ### people page :
 ![people](https://user-images.githubusercontent.com/102855266/215249809-c60cb95e-144a-4fd0-b922-8955a294fe64.jpg)
 
 
 ### home page :
-
 ![contactus](https://user-images.githubusercontent.com/102855266/215249815-bd56dc55-024f-402c-98c5-00af376b12dc.jpg)
 
 ### html validator :
-
-
 ![html](https://user-images.githubusercontent.com/102855266/215249959-d86ae9c8-a36b-4597-968d-992b2aa436ae.jpg)
 
 
